@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "driver": "mysql",
+    "host": "localhost",
+    "port": "3306",
+    "user": "root",
+    "database": "node_api_dev",
+    "password": "pacte2013"
+  },
+   "test": {
+    "driver": "mysql",
+    "host": "localhost",
+    "port": "3306",
+    "user": "root",
+    "database": "node_api_test",
+    "password": "pacte2013"
+  },
+   "prod": {
+    "driver": "mysql",
+    "host": "localhost",
+    "port": "3306",
+    "user": "root",
+    "database": "node_api_prod",
+    "password": "pacte2013"
+  }
+}

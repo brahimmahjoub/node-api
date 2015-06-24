@@ -1,0 +1,12 @@
+{
+	"name": "node-api",
+	"main": "server.js",
+	"dependencies": {
+		"express": "*",
+		"body-parser": "*",
+	"ejs":"*",	
+		"mysql": "*",
+		"sequelize": "*",
+		"path": "*"
+	}
+}
